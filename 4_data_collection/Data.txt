@@ -1,0 +1,2 @@
+Untuk data pada program ini
+input dapat berupa teks apapun sesuai dengan keinginan user

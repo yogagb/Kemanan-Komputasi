@@ -1,0 +1,5 @@
+Integrasi hasil dari client ke server terjaga
+dilihat dari Input pada user, 
+di enkripsi dan mengirim key kepada server, 
+di dekripsi oleh server oleh key yang sama,
+mengeluarkan hasil output yang sesuai dengan input
